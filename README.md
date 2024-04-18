@@ -6,3 +6,5 @@
 - Quitamos el import de react,  viene por defecto
 - Instalar dependendias NPM Install
 - npm run dev, para correr el proyecto
+
+# 75 Añadiendo stilos globales

@@ -1,6 +1,3 @@
-
-import PropTypes from 'prop-types'
-
 const GifExpertApp = () => {
   return (
     <>
@@ -10,3 +7,6 @@ const GifExpertApp = () => {
 }
 
 export default GifExpertApp
+
+
+// cd C:\Users\hp\Documents\Green\Cursos\React\Sec_6_Gif_expertApp
